@@ -1,5 +1,5 @@
 homepage: "https://loamly.ai"
 documentation: "https://loamly.ai/docs/integrations/gtm"
 versions:
-  - sha: 22971e0defa8a7cedd4c5fa1c350480c5c16d1a6
-    changeNotes: Initial release. Loamly GTM template for client-side tracking.
+  - sha: 62370b9756e1c4d79e85bd6bb85c8a2a804a9d70
+    changeNotes: Initial release.
